@@ -25,9 +25,9 @@ export default function Section2() {
                     className="space-y-4 flex flex-col md:flex-row md:justify-center md:items-center md:gap-10 md:space-y-0 text-center md:text-left"
                 >
                     <p className="text-sm sm:text-base leading-relaxed w-full md:w-[40%] mx-auto md:mx-0">
-                        It's not the need to work at all costs that matters,
-                        it's the power to use one's talent fully and in the
-                        best place. To find one's place in the world and
+                        It`s not the need to work at all costs that matters,
+                        it`s the power to use one`s talent fully and in the
+                        best place. To find one`s place in the world and
                         shine brightly in it.
                     </p>
                     <button className="mt-4 md:mt-0 bg-white text-black px-6 py-4 rounded-3xl hover:bg-gray-200 transition">
