@@ -7,7 +7,7 @@ import Section5 from "../components/profession-sec5";
 import Section6 from "../components/profession-sec6";
 import Section7 from "../components/profession-sec7";
 import Section8 from "../components/profession-sec8";
-import Section3 from "../components/profession-section3";
+import Section3 from "../components/profession-sec3";
 
 export default function Profession () {
     return (
