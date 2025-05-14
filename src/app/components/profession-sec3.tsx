@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 export default function Section3() {
     return (
@@ -15,15 +16,15 @@ export default function Section3() {
                 <div className="flex flex-col md:flex-row items-center">
                     {/* Mission labels */}
                     <div className="flex md:flex-col flex-col-reverse rotate-90 md:rotate-0 md:gap-1">
-                        <div className="bg-[#a6c3d1] px-14 py-6 md:px-48 md:py-14 xl:px-62 xl:py-14 rounded-l-3xl text-center">
+                        <Link href="#" className="bg-[#a6c3d1] px-14 py-6 md:px-48 md:py-14 xl:px-62 xl:py-14 rounded-l-3xl text-center">
                             ENGINEERING
-                        </div>
-                        <div className="bg-[#f4ddc5] px-14 py-6 md:px-48 md:py-14 xl:px-62 xl:py-14 rounded-l-3xl text-center">
+                        </Link>
+                        <Link href="#" className="bg-[#f4ddc5] px-14 py-6 md:px-48 md:py-14 xl:px-62 xl:py-14 rounded-l-3xl text-center">
                             TECH
-                        </div>
-                        <div className="bg-[#a4bcb0] px-14 py-6 md:px-48 md:py-14  xl:px-62 xl:py-14 rounded-l-3xl text-center">
+                        </Link>
+                        <Link href="#" className="bg-[#a4bcb0] px-14 py-6 md:px-48 md:py-14  xl:px-62 xl:py-14 rounded-l-3xl text-center">
                             ADVICE
-                        </div>
+                        </Link>
                     </div>
 
                     {/* Image */}
