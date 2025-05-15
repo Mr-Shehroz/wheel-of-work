@@ -45,7 +45,7 @@ export default function Section1() {
             </div>
 
             {/* Right: Text section */}
-            <div className="bg-[#a6c3d1] w-[70%] h-[80dvh] md:h-screen flex flex-col justify-center items-center text-black px-6 md:px-8 md:py-0">
+            <div className="bg-[#a6c3d1] lg:w-[70%] h-[80dvh] md:h-screen flex flex-col justify-center items-center text-black px-6 md:px-8 md:py-0">
                 <div className="text-center z-50 space-y-2">
                     <h2 className="text-4xl md:text-7xl font-bold">SUPER</h2>
                     <h2 className="text-4xl md:text-7xl font-bold">QUALIFIED</h2>
